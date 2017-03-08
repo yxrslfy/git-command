@@ -1,8 +1,8 @@
 # Git 创建版本库
 
 * Git安装好了之后，首先进行设置
-`git config --global user.name "your name"`
-`git config --global user.email "youremail@xxx.com"`
+\n `git config --global user.name "your name"`
+\n `git config --global user.email "youremail@xxx.com"`
 
 * 把当前目录变为Git可以管理的仓库
 <br/>
