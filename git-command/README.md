@@ -5,6 +5,7 @@
 `git config --global user.email "youremail@xxx.com"`
 
 * 把当前目录变为Git可以管理的仓库
+<br/>
 `git init`
 
 * 把要添加的文件添加到Git上。
