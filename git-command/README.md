@@ -1,7 +1,6 @@
 # Git 创建版本库
 
 * Git安装好了之后，首先进行设置
-<<<<<<< HEAD
 ```
     git config --global user.name "your name"
     
@@ -26,24 +25,6 @@
 ```
     git clone [url]
 ```
-=======
-> `git config --global user.name "your name"`
-> `git config --global user.email "youremail@xxx.com"`
-
-* 把当前目录变为Git可以管理的仓库
-> `git init`
-
-* 把要添加的文件添加到Git上。
-> `git add [filename]`
-
-* 提交代码到Git仓库
-> `git commit -m "commit"`
-> 双引号内为提交说明，为更好的阅读代码，最好每次都填写。
-
-* 远程克隆Git仓库项目及整个代码历史
-> `git clone [url]`
-
->>>>>>> b0f1c9cac07b43fd1c33df42bb8e8bf84ec981e4
 
 # Git 增加删除文件 
 
@@ -68,7 +49,6 @@
 # Git 代码提交
 
 * 提交暂存区到仓库区
-<<<<<<< HEAD
 ```
     git commit -m "commit message"
 ```
